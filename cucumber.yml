@@ -1,0 +1,7 @@
+default: -p prd -p chrome
+
+prd: ENVIRONMENT="prd"
+
+chrome: BROWSER="chrome"
+
+headless: HEADLESS="true"
