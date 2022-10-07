@@ -4,7 +4,7 @@ Automatização de teste em Ruby sitw serverest
    * [ Requisitos ](#Requisitos)
    * [ Instalação ](#Instalação)
 ## Sobre ✍
-Desenvolvimento de teste em Ruby utilizando TDD
+Desenvolvimento de testes automatizados em Ruby
 
 ## Requisitos 🛠
 Ruby
@@ -39,8 +39,8 @@ geminstallbundlergeminstallruby-debug-ide
 
 git clone https://github.com/elianefreitas/RealityStone_eliane_freitas_Compass.git
 Referências
-#Agradecimento
--Emerson
--Bruno
--Maiara
--christian
+## Agradecimento
+- Emerson
+- Bruno
+- Maiara
+- christian
