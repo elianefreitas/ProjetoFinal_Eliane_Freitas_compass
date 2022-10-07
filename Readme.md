@@ -3,6 +3,7 @@ Automatização de teste em Ruby site serverest
    * [ Sobre ](#Sobre)
    * [ Requisitos ](#Requisitos)
    * [ Instalação ](#Instalação)
+   * [ Agradecimentos ](#Agradecimentos)
 ## Sobre ✍
 Desenvolvimento de testes automatizados em Ruby
 
