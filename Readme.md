@@ -1,5 +1,5 @@
 ## ProjetoFinal_Eliane_Freitas_compass
-Automatização de teste em Ruby sitw serverest
+Automatização de teste em Ruby site serverest
    * [ Sobre ](#Sobre)
    * [ Requisitos ](#Requisitos)
    * [ Instalação ](#Instalação)
