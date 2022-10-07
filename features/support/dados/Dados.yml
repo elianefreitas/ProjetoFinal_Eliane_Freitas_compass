@@ -1,0 +1,26 @@
+#cadastro usuario/adm
+nome: 'usuario'
+email: 'usuario02@teste.com'
+senha: '010203'
+nome_adm: 'gerente'
+email_adm: 'gerente02@teste.com'
+senha_adm: '010203'
+nome_vazio: ''
+email_vazio: ''
+senha_vazio: ''
+senha_invalida: '55555'
+email_invalido: 'teste2@teste.com'
+
+
+#cadastro/buscar produto
+nome_produto: 'PlayS'
+preco_produto: '5.000,00'
+descricao_produto: 'video game'
+quantidade_produto: '1'
+
+
+#buscas de produto
+
+produto_inexistente: 'teclado_nao_existente'
+
+
